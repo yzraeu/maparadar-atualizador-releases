@@ -1,20 +1,22 @@
-# MapaRadar Atualizador — Public Releases
+# Atualizador MapaRadar — Releases Públicos
 
-Public release assets and updater manifests (`latest.json`) for the MapaRadar
-Atualizador desktop app.
+Artefatos de lançamento (instaladores) e manifestos de atualização
+(`latest.json`) para o aplicativo desktop Atualizador MapaRadar.
 
-This repo exists so **downloads stay public** while the main source repository
-(`maparadar-atualizador`) is private. Each release here mirrors the installers
-and the Tauri updater manifest from the private source repo.
+Este repositório existe para que os **downloads permaneçam públicos**
+enquanto o repositório principal do código-fonte (`maparadar-atualizador`)
+é privado. Cada lançamento (release) aqui espelha os instaladores e o
+manifesto do atualizador Tauri a partir do repositório-fonte privado.
 
-## Installing the app
+## Instalando o aplicativo
 
-Download the installer for your platform from the [Releases](releases) page,
-or install the app once and let its auto-updater pull new versions from here.
+Baixe o instalador da sua plataforma na página de
+[Releases](releases), ou instale o aplicativo uma vez e deixe que a
+atualização automática dele busque novas versões por aqui.
 
-## Platforms
+## Plataformas
 
-| Platform | Artifact |
+| Plataforma | Artefato |
 |---|---|
 | Windows | `*.msi`, `*-setup.exe` |
 | macOS   | `*.dmg`, `*.app.tar.gz` |
